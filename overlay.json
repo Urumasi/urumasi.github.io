@@ -2,12 +2,12 @@
   "contact": "",
   "templates": [
     {
-      "name": "Tiny Loona",
+      "name": "French Loona",
       "sources": [
-        "https://i.imgur.com/7dmJTU3.png"
+        "https://urumasi.github.io/french_loona.png"
       ],
-      "x": 1360,
-      "y": 115
+      "x": 1041,
+      "y": 1899
     }
   ],
   "whitelist": [],
